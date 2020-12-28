@@ -194,4 +194,4 @@ yyyy-mm-dd Pending : 1 Completed : 4
 
 ## Improving README.md
 
-If you feel like we are missing out steps, feel free to make a pull request. [Github Repo](https://github.com/nseadlc-2020/package-todo-cli-task)
+If you feel like I have missed out steps, feel free to make a pull request. [Github Repo](https://github.com/SwarupKharul/Python-CMD-TODO/)
